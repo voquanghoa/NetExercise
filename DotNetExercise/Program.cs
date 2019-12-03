@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace DotNetExercise
 {
-    class Program
+    public class Program
     {
+        public static int Sum(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static int Sub(int a, int b)
+        {
+            return a - b;
+        }
+
         static void Main(string[] args)
         {
         }
