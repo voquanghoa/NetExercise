@@ -20,8 +20,6 @@ namespace DotNetExercise
 
         static void Main(string[] args)
         {
-            Console.WriteLine(Sum(7, 9));
-            Console.ReadKey();
         }
     }
 }
